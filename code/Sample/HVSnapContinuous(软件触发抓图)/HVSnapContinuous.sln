@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HVSnapContinuous", "HVSnapContinuous.vcproj", "{CFF55219-D643-427C-8FCE-3BBAB286677A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF55219-D643-427C-8FCE-3BBAB286677A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFF55219-D643-427C-8FCE-3BBAB286677A}.Debug|Win32.Build.0 = Debug|Win32
+		{CFF55219-D643-427C-8FCE-3BBAB286677A}.Release|Win32.ActiveCfg = Release|Win32
+		{CFF55219-D643-427C-8FCE-3BBAB286677A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
